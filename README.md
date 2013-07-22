@@ -1,5 +1,8 @@
 jpbt
 ====
+
+This is a clone of a part of the project [promnicat](https://code.google.com/p/promnicat/).
+
 Copyright (c) 2008-2012. GNU LGPL v3. All rights reserved.
 
 Thank you to all the contributors:
